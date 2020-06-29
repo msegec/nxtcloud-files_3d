@@ -1,5 +1,8 @@
-# files_3d
+# nxtcloud-files_3d
 Place this app in **nextcloud/apps/**
+Or better yet, have someone who didn't make this originally update it and bring it back to the app store.
+
+Cred to https://github.com/v1r0x for 99% of this addon. his work is here https://github.com/v1r0x/files_3d
 
 ## Building the app
 
